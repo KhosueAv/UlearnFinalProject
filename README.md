@@ -48,6 +48,9 @@
   Создадим метод Task1 который будет решать первое задание
 ![image](https://user-images.githubusercontent.com/121817358/210415576-99d0a7fa-588a-4f42-89c9-d761c2cde28c.png)
 ![image](https://user-images.githubusercontent.com/121817358/210415601-f75017d5-419c-450c-a89a-a9782e529067.png)
+ **Результат:
+![chart](https://user-images.githubusercontent.com/121817358/210594559-f25d05e3-b675-452a-8664-f7b889a54bcd.jpg)
+
 
 <br /><br />
   **Задание 2 - Выведите в консоль среднюю магнитуду для штата "West Virginia"**
