@@ -36,6 +36,9 @@
   В классе Main в методе main(главном выполняемом) запустим парсинг csv, создание БД, заполнения БД
 ![image](https://user-images.githubusercontent.com/121817358/210416622-a797634d-82e9-4610-978e-f8eabb8d9b51.png)
 
+  Выводим данные из БД
+  ![image](https://user-images.githubusercontent.com/121817358/210483397-0ac3f51f-3e93-4fc8-ae4c-dced9e47d2bc.png)
+
   
   <br /><br />
   **Задание 1 - Постройте график по среднему количеству землетрясений для каждого года**
